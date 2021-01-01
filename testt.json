@@ -1,0 +1,267 @@
+{
+    "INVOICEPOSTINGLIST": [
+        {
+            "RECORDNO": "1",
+            "INVOICEID": "INV-0000171",
+            "FIDOCNUMBER": "FIDOCNo1",
+            "INVPOSTINGDATE": "2020-12-15",
+            "INVCOCODE": "1000",
+            "INVOICELINELIST": [
+                {
+                    "INVOICESAPITEMNO": "1",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508120",
+                    "INVOICELINEITEMNAME": "HCP - Consulting",
+                    "INVLINEITEMAMOUNT": "100",
+                    "INVLINEITEMCOCENTER": "CostCenter",
+                    "INVLINEITEMIO": "InternalOrde1",
+                    "INVLINEITEMPC": "ProfitCent1"
+                },
+                {
+                    "INVOICESAPITEMNO": "2",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508129",
+                    "INVOICELINEITEMNAME": "HCP - Consulting",
+                    "INVLINEITEMAMOUNT": "200",
+                    "INVLINEITEMCOCENTER": "CostCenter",
+                    "INVLINEITEMIO": "InternalOrde2",
+                    "INVLINEITEMPC": "ProfitCent2"
+                },
+                {
+                    "INVOICESAPITEMNO": "3",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508129",
+                    "INVOICELINEITEMNAME": "HCP - Airfare",
+                    "INVLINEITEMAMOUNT": "300",
+                    "INVLINEITEMCOCENTER": "CostCenter",
+                    "INVLINEITEMIO": "InternalOrde3",
+                    "INVLINEITEMPC": "ProfitCent3"
+                },
+                {
+                    "INVOICESAPITEMNO": "4",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508129",
+                    "INVOICELINEITEMNAME": "HCP - Airfare",
+                    "INVLINEITEMAMOUNT": "400",
+                    "INVLINEITEMCOCENTER": "CostCenter",
+                    "INVLINEITEMIO": "InternalOrde4",
+                    "INVLINEITEMPC": "ProfitCent4"
+                }
+            ]
+        },
+        {
+            "RECORDNO": "2",
+            "INVOICEID": "INV-0000172",
+            "FIDOCNUMBER": "test12",
+            "INVPOSTINGDATE": "2012-20-12",
+            "INVCOCODE": "1100",
+            "INVOICELINELIST": [
+                {
+                    "INVOICESAPITEMNO": "1",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508120",
+                    "INVOICELINEITEMNAME": "HCP - Consulting",
+                    "INVLINEITEMAMOUNT": "500",
+                    "INVLINEITEMCOCENTER": "CostCenter5",
+                    "INVLINEITEMIO": "InternalOrde5",
+                    "INVLINEITEMPC": "ProfitCent5"
+                },
+                {
+                    "INVOICESAPITEMNO": "2",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508129",
+                    "INVOICELINEITEMNAME": "HCP - Consulting",
+                    "INVLINEITEMAMOUNT": "600",
+                    "INVLINEITEMCOCENTER": "CostCenter",
+                    "INVLINEITEMIO": "InternalOrde6",
+                    "INVLINEITEMPC": "ProfitCent6"
+                },
+                {
+                    "INVOICESAPITEMNO": "3",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508129",
+                    "INVOICELINEITEMNAME": "HCP - Airfare",
+                    "INVLINEITEMAMOUNT": "700",
+                    "INVLINEITEMCOCENTER": "CostCenter",
+                    "INVLINEITEMIO": "InternalOrde4",
+                    "INVLINEITEMPC": "ProfitCent7"
+                }
+            ]
+        },
+        {
+            "RECORDNO": "3",
+            "INVOICEID": "INV-0000173",
+            "FIDOCNUMBER": "test12",
+            "INVPOSTINGDATE": "2012-20-12",
+            "INVCOCODE": "13100",
+            "INVOICELINELIST": [
+                {
+                    "INVOICESAPITEMNO": "1",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508120",
+                    "INVOICELINEITEMNAME": "HCP - Consulting",
+                    "INVLINEITEMAMOUNT": "500",
+                    "INVLINEITEMCOCENTER": "CostCenter5",
+                    "INVLINEITEMIO": "InternalOrde5",
+                    "INVLINEITEMPC": "ProfitCent5"
+                },
+                {
+                    "INVOICESAPITEMNO": "2",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508129",
+                    "INVOICELINEITEMNAME": "HCP - Consulting",
+                    "INVLINEITEMAMOUNT": "600",
+                    "INVLINEITEMCOCENTER": "CostCenter",
+                    "INVLINEITEMIO": "InternalOrde6",
+                    "INVLINEITEMPC": "ProfitCent6"
+                },
+                {
+                    "INVOICESAPITEMNO": "3",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508129",
+                    "INVOICELINEITEMNAME": "HCP - Airfare",
+                    "INVLINEITEMAMOUNT": "700",
+                    "INVLINEITEMCOCENTER": "CostCenter",
+                    "INVLINEITEMIO": "InternalOrde4",
+                    "INVLINEITEMPC": "ProfitCent4"
+                }
+            ]
+        },
+        {
+            "RECORDNO": "4",
+            "INVOICEID": "INV-0000174",
+            "FIDOCNUMBER": "test12",
+            "INVPOSTINGDATE": "2012-20-12",
+            "INVCOCODE": "3100",
+            "INVOICELINELIST": [
+                {
+                    "INVOICESAPITEMNO": "1",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508120",
+                    "INVOICELINEITEMNAME": "HCP - Consulting",
+                    "INVLINEITEMAMOUNT": "500",
+                    "INVLINEITEMCOCENTER": "CostCenter5",
+                    "INVLINEITEMIO": "InternalOrde5",
+                    "INVLINEITEMPC": "ProfitCent5"
+                },
+                {
+                    "INVOICESAPITEMNO": "2",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508129",
+                    "INVOICELINEITEMNAME": "HCP - Airfare",
+                    "INVLINEITEMAMOUNT": "700",
+                    "INVLINEITEMCOCENTER": "CostCenter",
+                    "INVLINEITEMIO": "InternalOrde4",
+                    "INVLINEITEMPC": "ProfitCent4"
+                }
+            ]
+        },
+        {
+            "RECORDNO": "5",
+            "INVOICEID": "INV-0000175",
+            "FIDOCNUMBER": "test12",
+            "INVPOSTINGDATE": "2012-20-12",
+            "INVCOCODE": "1100",
+            "INVOICELINELIST": [
+                {
+                    "INVOICESAPITEMNO": "1",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508120",
+                    "INVOICELINEITEMNAME": "HCP - Consulting",
+                    "INVLINEITEMAMOUNT": "500",
+                    "INVLINEITEMCOCENTER": "CostCenter5",
+                    "INVLINEITEMIO": "InternalOrde5",
+                    "INVLINEITEMPC": "ProfitCent5"
+                },
+                {
+                    "INVOICESAPITEMNO": "2",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508129",
+                    "INVOICELINEITEMNAME": "HCP - Airfare",
+                    "INVLINEITEMAMOUNT": "700",
+                    "INVLINEITEMCOCENTER": "CostCenter",
+                    "INVLINEITEMIO": "InternalOrde4",
+                    "INVLINEITEMPC": "ProfitCent4"
+                }
+            ]
+        },
+        {
+            "RECORDNO": "6",
+            "INVOICEID": "INV-0000176",
+            "FIDOCNUMBER": "test12",
+            "INVPOSTINGDATE": "2012-20-12",
+            "INVCOCODE": "1100",
+            "INVOICELINELIST": [
+                {
+                    "INVOICESAPITEMNO": "1",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508120",
+                    "INVOICELINEITEMNAME": "HCP - Consulting",
+                    "INVLINEITEMAMOUNT": "500",
+                    "INVLINEITEMCOCENTER": "CostCenter5",
+                    "INVLINEITEMIO": "InternalOrde5",
+                    "INVLINEITEMPC": "ProfitCent5"
+                },
+                {
+                    "INVOICESAPITEMNO": "2",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508120",
+                    "INVOICELINEITEMNAME": "HCP - Consulting",
+                    "INVLINEITEMAMOUNT": "500",
+                    "INVLINEITEMCOCENTER": "CostCenter5",
+                    "INVLINEITEMIO": "InternalOrde5",
+                    "INVLINEITEMPC": "ProfitCent5"
+                },
+                {
+                    "INVOICESAPITEMNO": "3",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508129",
+                    "INVOICELINEITEMNAME": "HCP - Airfare",
+                    "INVLINEITEMAMOUNT": "700",
+                    "INVLINEITEMCOCENTER": "CostCenter",
+                    "INVLINEITEMIO": "InternalOrde4",
+                    "INVLINEITEMPC": "ProfitCent4"
+                }
+            ]
+        },
+        {
+            "RECORDNO": "7",
+            "INVOICEID": "INV-0000177",
+            "FIDOCNUMBER": "test12",
+            "INVPOSTINGDATE": "2012-20-12",
+            "INVCOCODE": "1100",
+            "INVOICELINELIST": [
+                {
+                    "INVOICESAPITEMNO": "1",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508120",
+                    "INVOICELINEITEMNAME": "HCP - Consulting",
+                    "INVLINEITEMAMOUNT": "500",
+                    "INVLINEITEMCOCENTER": "CostCenter5",
+                    "INVLINEITEMIO": "InternalOrde5",
+                    "INVLINEITEMPC": "ProfitCent5"
+                },
+                {
+                    "INVOICESAPITEMNO": "2",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508120",
+                    "INVOICELINEITEMNAME": "HCP - Consulting",
+                    "INVLINEITEMAMOUNT": "500",
+                    "INVLINEITEMCOCENTER": "CostCenter5",
+                    "INVLINEITEMIO": "InternalOrde5",
+                    "INVLINEITEMPC": "ProfitCent5"
+                },
+                {
+                    "INVOICESAPITEMNO": "3",
+                    "VENDORID": "740679",
+                    "INVLINEITEMGL": "508129",
+                    "INVOICELINEITEMNAME": "HCP - Airfare",
+                    "INVLINEITEMAMOUNT": "700",
+                    "INVLINEITEMCOCENTER": "CostCenter",
+                    "INVLINEITEMIO": "InternalOrde4",
+                    "INVLINEITEMPC": "ProfitCent4"
+                }
+            ]
+        }
+    ]
+}
